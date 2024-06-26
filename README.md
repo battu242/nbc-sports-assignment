@@ -1,1 +1,2 @@
-This repo contains source code of home screen implementation.
+# nbc-sports-assignment
+This repo contains source of assignment task
