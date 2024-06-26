@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.nbcsporsassignmentapp.HomeViewModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-25T19:17:27" hostname="VMURUGASAMY-MAC.local" time="1.58">
+  <properties/>
+  <testcase name="verify get shelf list" classname="com.example.nbcsporsassignmentapp.HomeViewModelTest" time="1.58"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

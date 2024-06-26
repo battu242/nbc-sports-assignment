@@ -1,0 +1,448 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/vengateshm/.gradle/caches/transforms-4/828bb0f5616b7010d7e24b6fae3c4242/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vengateshm/.gradle/caches/transforms-4/a8817f2e6fadad47803a47cddcd073d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/9ca83ad2682825da99d6ed59f4225277/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/aee1cce0c89928f1f2f08f03d8443c29/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.49] /Users/vengateshm/.gradle/caches/transforms-4/f27be7858295a0244d5c9f7c548416ec/transformed/hilt-android-2.49/AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/vengateshm/.gradle/caches/transforms-4/233092f0d3dd36cf27d017362b579e18/transformed/glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/e34afa64546ca262f421c862cf1fb7bf/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/830774e3b4befd545c44b05d4a6ab122/transformed/fragment-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/adc0f74019a31fe127950e111d3ece4b/transformed/fragment-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-testing:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/5a4b08914302a45a3b610e38045b25b6/transformed/fragment-testing-1.8.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/vengateshm/.gradle/caches/transforms-4/0c61c5397e3a907e40421933837085c0/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/vengateshm/.gradle/caches/transforms-4/238d699ff641204e089b8b348add3420/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/0290aede3c031d81160813a3e2a6d1dc/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/8afab626a991ba0a430c043bee38244d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/2f3472b5fafd54efe7a14c00599d1cdd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/c388e4658026fdd3512ebef89c5d9d4f/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/38e11daaae9a3aed776964fc047d7782/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/30fc139d68d83280bceb3a5134944a78/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/43dad42fa23ffe449fdd288e9dddb4f8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/c281eb2da4684db663abfc8bc7537bb1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/573d5cddb4b0f1d5d5c536e78d375847/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/294431783db155cc9a5e1053a36dc565/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/6ca7586909fc61e0289baa81a5050b77/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/5c8f40bf0e840e2bad7938cf2e105c42/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vengateshm/.gradle/caches/transforms-4/951fca7eca20495ddeb5677737f65148/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vengateshm/.gradle/caches/transforms-4/eb28631ac409375635766044577856d3/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/c0b6d8799bd11f538b499694f6ea205e/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/2ab73333a18a0a9fce0e113d044e8550/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/75a1b5bec353c5347ff154672c8e1316/transformed/lifecycle-viewmodel-2.8.2/AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/722a430c3ab7cfe7e417aa4877a2ae24/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/2d3ea58a8cd386f442381430af53a35a/transformed/lifecycle-livedata-core-2.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/9d21c36d2f78c015e9ed5b9d0f88c609/transformed/lifecycle-livedata-core-ktx-2.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/112d5833d087b810634389fbafda88fb/transformed/lifecycle-livedata-2.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/f7104001490296c9c34ad4c6d7014e62/transformed/lifecycle-livedata-ktx-2.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5d946595563c08e4ea50bc6f585629a4/transformed/lifecycle-viewmodel-ktx-2.8.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/384d69081a32705fdbc5c0782e118155/transformed/lifecycle-viewmodel-savedstate-2.8.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/1531d988418130d0248bed9e4899d4fe/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.test.services:storage:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/dd842a38d8a9799a3a15c856bbcdf3bb/transformed/storage-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/1ab1f8d012df38d9c8b95a71a8104c05/transformed/monitor-1.7.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/vengateshm/.gradle/caches/transforms-4/5998a222cb9450798582a8b543802585/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/c56b030cef2b9e54e47488266c450827/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/abe7f861acc00733421a20df9103ef33/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/adfb671317a03334a64e19a0c9d62360/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/9aadccfd9f3e12c3f502dd1c2f871b63/transformed/tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/vengateshm/.gradle/caches/transforms-4/eaea39cbf1a7b641160c54e9e759f3a6/transformed/gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/vengateshm/.gradle/caches/transforms-4/1bfcec04961a4f5bc250564016607a22/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/93e0cf81e86182855dc9daf6bdc54bcf/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/fb4b588f747a74e7a602b8413964dddd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vengateshm/.gradle/caches/transforms-4/c752961fd9f93fb267a1986e691eabbf/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/2f7e6d1b54daca528f082791bf1507f2/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/07cc526be194e7730131f7c394a67d16/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/dcd2e46b3cc3df498bf0cbf5fdfabf1e/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.49] /Users/vengateshm/.gradle/caches/transforms-4/23ef1d1c63b75a6c9dca15f5cbb23f72/transformed/dagger-lint-aar-2.49/AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:7:5-27:19
+MERGED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:7:5-27:19
+INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml:5:5-9:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/vengateshm/.gradle/caches/transforms-4/828bb0f5616b7010d7e24b6fae3c4242/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/vengateshm/.gradle/caches/transforms-4/828bb0f5616b7010d7e24b6fae3c4242/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vengateshm/.gradle/caches/transforms-4/a8817f2e6fadad47803a47cddcd073d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vengateshm/.gradle/caches/transforms-4/a8817f2e6fadad47803a47cddcd073d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:25:5-36:19
+MERGED from [androidx.fragment:fragment-testing:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/5a4b08914302a45a3b610e38045b25b6/transformed/fragment-testing-1.8.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.fragment:fragment-testing:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/5a4b08914302a45a3b610e38045b25b6/transformed/fragment-testing-1.8.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/adfb671317a03334a64e19a0c9d62360/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/adfb671317a03334a64e19a0c9d62360/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/fb4b588f747a74e7a602b8413964dddd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/fb4b588f747a74e7a602b8413964dddd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:roundIcon
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:14:9-54
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:14:9-54
+	tools:targetApi
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:17:9-29
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:17:9-29
+	android:icon
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:16:9-59
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:16:9-59
+	android:dataExtractionRules
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:10:9-65
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:10:9-65
+	android:name
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:9:9-47
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:9:9-47
+activity#com.example.nbcsporsassignmentapp.MainActivity
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:exported
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.nbcsporsassignmentapp.HiltTestActivity
+ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml:6:9-8:40
+	android:exported
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml:8:13-37
+	android:name
+		ADDED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml:7:13-45
+uses-sdk
+INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] /Users/vengateshm/.gradle/caches/transforms-4/828bb0f5616b7010d7e24b6fae3c4242/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/vengateshm/.gradle/caches/transforms-4/828bb0f5616b7010d7e24b6fae3c4242/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vengateshm/.gradle/caches/transforms-4/a8817f2e6fadad47803a47cddcd073d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/vengateshm/.gradle/caches/transforms-4/a8817f2e6fadad47803a47cddcd073d2/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/9ca83ad2682825da99d6ed59f4225277/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/9ca83ad2682825da99d6ed59f4225277/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/aee1cce0c89928f1f2f08f03d8443c29/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/aee1cce0c89928f1f2f08f03d8443c29/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.49] /Users/vengateshm/.gradle/caches/transforms-4/f27be7858295a0244d5c9f7c548416ec/transformed/hilt-android-2.49/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.49] /Users/vengateshm/.gradle/caches/transforms-4/f27be7858295a0244d5c9f7c548416ec/transformed/hilt-android-2.49/AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/vengateshm/.gradle/caches/transforms-4/233092f0d3dd36cf27d017362b579e18/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/vengateshm/.gradle/caches/transforms-4/233092f0d3dd36cf27d017362b579e18/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/e34afa64546ca262f421c862cf1fb7bf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/e34afa64546ca262f421c862cf1fb7bf/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/830774e3b4befd545c44b05d4a6ab122/transformed/fragment-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/830774e3b4befd545c44b05d4a6ab122/transformed/fragment-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/adc0f74019a31fe127950e111d3ece4b/transformed/fragment-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/adc0f74019a31fe127950e111d3ece4b/transformed/fragment-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-testing:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/5a4b08914302a45a3b610e38045b25b6/transformed/fragment-testing-1.8.0/AndroidManifest.xml:20:5-22:54
+MERGED from [androidx.fragment:fragment-testing:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/5a4b08914302a45a3b610e38045b25b6/transformed/fragment-testing-1.8.0/AndroidManifest.xml:20:5-22:54
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/vengateshm/.gradle/caches/transforms-4/0c61c5397e3a907e40421933837085c0/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/vengateshm/.gradle/caches/transforms-4/0c61c5397e3a907e40421933837085c0/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/vengateshm/.gradle/caches/transforms-4/238d699ff641204e089b8b348add3420/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/vengateshm/.gradle/caches/transforms-4/238d699ff641204e089b8b348add3420/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/0290aede3c031d81160813a3e2a6d1dc/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/0290aede3c031d81160813a3e2a6d1dc/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/8afab626a991ba0a430c043bee38244d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/8afab626a991ba0a430c043bee38244d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/2f3472b5fafd54efe7a14c00599d1cdd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/2f3472b5fafd54efe7a14c00599d1cdd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/c388e4658026fdd3512ebef89c5d9d4f/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/c388e4658026fdd3512ebef89c5d9d4f/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/38e11daaae9a3aed776964fc047d7782/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/38e11daaae9a3aed776964fc047d7782/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/30fc139d68d83280bceb3a5134944a78/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/30fc139d68d83280bceb3a5134944a78/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/43dad42fa23ffe449fdd288e9dddb4f8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/43dad42fa23ffe449fdd288e9dddb4f8/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/c281eb2da4684db663abfc8bc7537bb1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/c281eb2da4684db663abfc8bc7537bb1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/573d5cddb4b0f1d5d5c536e78d375847/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/573d5cddb4b0f1d5d5c536e78d375847/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/294431783db155cc9a5e1053a36dc565/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/294431783db155cc9a5e1053a36dc565/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/6ca7586909fc61e0289baa81a5050b77/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/6ca7586909fc61e0289baa81a5050b77/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/5c8f40bf0e840e2bad7938cf2e105c42/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/5c8f40bf0e840e2bad7938cf2e105c42/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vengateshm/.gradle/caches/transforms-4/951fca7eca20495ddeb5677737f65148/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/vengateshm/.gradle/caches/transforms-4/951fca7eca20495ddeb5677737f65148/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vengateshm/.gradle/caches/transforms-4/eb28631ac409375635766044577856d3/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/vengateshm/.gradle/caches/transforms-4/eb28631ac409375635766044577856d3/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/c0b6d8799bd11f538b499694f6ea205e/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/c0b6d8799bd11f538b499694f6ea205e/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/2ab73333a18a0a9fce0e113d044e8550/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/2ab73333a18a0a9fce0e113d044e8550/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/75a1b5bec353c5347ff154672c8e1316/transformed/lifecycle-viewmodel-2.8.2/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/75a1b5bec353c5347ff154672c8e1316/transformed/lifecycle-viewmodel-2.8.2/AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/722a430c3ab7cfe7e417aa4877a2ae24/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/722a430c3ab7cfe7e417aa4877a2ae24/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/2d3ea58a8cd386f442381430af53a35a/transformed/lifecycle-livedata-core-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/2d3ea58a8cd386f442381430af53a35a/transformed/lifecycle-livedata-core-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/9d21c36d2f78c015e9ed5b9d0f88c609/transformed/lifecycle-livedata-core-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/9d21c36d2f78c015e9ed5b9d0f88c609/transformed/lifecycle-livedata-core-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/112d5833d087b810634389fbafda88fb/transformed/lifecycle-livedata-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/112d5833d087b810634389fbafda88fb/transformed/lifecycle-livedata-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/f7104001490296c9c34ad4c6d7014e62/transformed/lifecycle-livedata-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/f7104001490296c9c34ad4c6d7014e62/transformed/lifecycle-livedata-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5d946595563c08e4ea50bc6f585629a4/transformed/lifecycle-viewmodel-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5d946595563c08e4ea50bc6f585629a4/transformed/lifecycle-viewmodel-ktx-2.8.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/384d69081a32705fdbc5c0782e118155/transformed/lifecycle-viewmodel-savedstate-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/384d69081a32705fdbc5c0782e118155/transformed/lifecycle-viewmodel-savedstate-2.8.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/1531d988418130d0248bed9e4899d4fe/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/1531d988418130d0248bed9e4899d4fe/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/dd842a38d8a9799a3a15c856bbcdf3bb/transformed/storage-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/dd842a38d8a9799a3a15c856bbcdf3bb/transformed/storage-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/1ab1f8d012df38d9c8b95a71a8104c05/transformed/monitor-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.7.0] /Users/vengateshm/.gradle/caches/transforms-4/1ab1f8d012df38d9c8b95a71a8104c05/transformed/monitor-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/vengateshm/.gradle/caches/transforms-4/5998a222cb9450798582a8b543802585/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/vengateshm/.gradle/caches/transforms-4/5998a222cb9450798582a8b543802585/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/c56b030cef2b9e54e47488266c450827/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/c56b030cef2b9e54e47488266c450827/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/abe7f861acc00733421a20df9103ef33/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/abe7f861acc00733421a20df9103ef33/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/adfb671317a03334a64e19a0c9d62360/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/adfb671317a03334a64e19a0c9d62360/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/9aadccfd9f3e12c3f502dd1c2f871b63/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/vengateshm/.gradle/caches/transforms-4/9aadccfd9f3e12c3f502dd1c2f871b63/transformed/tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/vengateshm/.gradle/caches/transforms-4/eaea39cbf1a7b641160c54e9e759f3a6/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/vengateshm/.gradle/caches/transforms-4/eaea39cbf1a7b641160c54e9e759f3a6/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/vengateshm/.gradle/caches/transforms-4/1bfcec04961a4f5bc250564016607a22/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/vengateshm/.gradle/caches/transforms-4/1bfcec04961a4f5bc250564016607a22/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/93e0cf81e86182855dc9daf6bdc54bcf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/93e0cf81e86182855dc9daf6bdc54bcf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/fb4b588f747a74e7a602b8413964dddd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/fb4b588f747a74e7a602b8413964dddd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vengateshm/.gradle/caches/transforms-4/c752961fd9f93fb267a1986e691eabbf/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/vengateshm/.gradle/caches/transforms-4/c752961fd9f93fb267a1986e691eabbf/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/2f7e6d1b54daca528f082791bf1507f2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/2f7e6d1b54daca528f082791bf1507f2/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/07cc526be194e7730131f7c394a67d16/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/07cc526be194e7730131f7c394a67d16/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/dcd2e46b3cc3df498bf0cbf5fdfabf1e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vengateshm/.gradle/caches/transforms-4/dcd2e46b3cc3df498bf0cbf5fdfabf1e/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.49] /Users/vengateshm/.gradle/caches/transforms-4/23ef1d1c63b75a6c9dca15f5cbb23f72/transformed/dagger-lint-aar-2.49/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.49] /Users/vengateshm/.gradle/caches/transforms-4/23ef1d1c63b75a6c9dca15f5cbb23f72/transformed/dagger-lint-aar-2.49/AndroidManifest.xml:18:3-42
+	tools:overrideLibrary
+		ADDED from [androidx.fragment:fragment-testing:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/5a4b08914302a45a3b610e38045b25b6/transformed/fragment-testing-1.8.0/AndroidManifest.xml:22:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:23:5-72
+MERGED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
+MERGED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:23:22-69
+activity#androidx.fragment.app.testing.EmptyFragmentActivity
+ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:26:9-35:20
+	android:multiprocess
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:28:13-36
+	android:theme
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:31:13-78
+	android:taskAffinity
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:27:13-79
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [androidx.fragment:fragment-testing-manifest:1.8.0] /Users/vengateshm/.gradle/caches/transforms-4/6ae90bebceb93abe7f312e0c618aa39b/transformed/fragment-testing-manifest-1.8.0/AndroidManifest.xml:32:13-34:29
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/adfb671317a03334a64e19a0c9d62360/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/vengateshm/.gradle/caches/transforms-4/adfb671317a03334a64e19a0c9d62360/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/vengateshm/.gradle/caches/transforms-4/43ec3a282a693170537e9dfd193cbd2c/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#com.example.nbcsporsassignmentapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#com.example.nbcsporsassignmentapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /Users/vengateshm/.gradle/caches/transforms-4/689b708f871e9dd4535dfd4569a79548/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.5.0] /Users/vengateshm/.gradle/caches/transforms-4/202f74e74b4a0f946d7edcb9991b745e/transformed/core-1.5.0/AndroidManifest.xml:44:13-103
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.2] /Users/vengateshm/.gradle/caches/transforms-4/5023041a2db286a33f89c3cb555f2a32/transformed/lifecycle-process-2.8.2/AndroidManifest.xml:30:17-78
+queries
+ADDED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:24:5-28:15
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.6.0] /Users/vengateshm/.gradle/caches/transforms-4/ff5e44e1f332ff40cc0568c75296a5c5/transformed/runner-1.6.0/AndroidManifest.xml:27:18-80
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/vengateshm/.gradle/caches/transforms-4/d3a38a13cc9fe4d0c508b2e2c990220d/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

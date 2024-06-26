@@ -1,0 +1,29 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.example.nbcsporsassignmentapp"
+    test_package: "com.example.nbcsporsassignmentapp.test"
+    test_runner_class: "com.example.nbcsporsassignmentapp.HiltTestRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.example.nbcsporsassignmentapp/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "com.example.nbcsporsassignmentapp.HomeFragmentTest"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [/Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/build/intermediates/apk/debug/app-debug.apk] on device emulator-5554.
+INFO: Installing [/Users/vengateshm/AndroidProjects/NBCSporsAssignmentApp/app/build/intermediates/apk/androidTest/debug/app-debug-androidTest.apk] on device emulator-5554.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Stop logcat streaming.
+INFO: Uninstalling com.example.nbcsporsassignmentapp for device emulator-5554.
+INFO: Uninstalling com.example.nbcsporsassignmentapp.test for device emulator-5554.
+INFO: Execute com.example.nbcsporsassignmentapp.HomeFragmentTest.testRecyclerViewDisplaysData: PASSED

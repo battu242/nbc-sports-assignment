@@ -1,0 +1,77 @@
+06-26 13:12:57.830 17883 17905 I TestRunner: started: testRecyclerViewDisplaysData(com.example.nbcsporsassignmentapp.HomeFragmentTest)
+06-26 13:12:57.850 17883 17905 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+06-26 13:12:57.892   399   399 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+06-26 13:12:57.937   794   854 E OpenGLRenderer: Unable to match the desired swap behavior.
+06-26 13:12:57.937  1040  1888 D EGL_emulation: app_time_stats: avg=19186.13ms min=114.31ms max=38257.95ms count=2
+06-26 13:12:57.956 17883 17910 D libEGL  : loaded /vendor/lib64/egl/libEGL_emulation.so
+06-26 13:12:57.968 17883 17910 D libEGL  : loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+06-26 13:12:57.982 17883 17910 D libEGL  : loaded /vendor/lib64/egl/libGLESv2_emulation.so
+06-26 13:12:57.987 17883 17883 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+06-26 13:12:57.988  1578  1578 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+06-26 13:12:57.989  1578  2432 E HwDetectorWithState: a: 3
+06-26 13:12:58.003   565  1771 D OpenGLRenderer: --- Failed to create image decoder with message 'unimplemented'
+06-26 13:12:58.004 17883 17883 D LifecycleMonitor: Lifecycle status change: com.example.nbcsporsassignmentapp.HiltTestActivity@df08da4 in: PRE_ON_CREATE
+06-26 13:12:58.005 17883 17883 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+06-26 13:12:58.123 17883 17883 D LifecycleMonitor: Lifecycle status change: com.example.nbcsporsassignmentapp.HiltTestActivity@df08da4 in: CREATED
+06-26 13:12:58.123 17883 17883 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.nbcsporsassignmentapp.HiltTestActivity@df08da4
+06-26 13:12:58.128 17883 17883 D LifecycleMonitor: Lifecycle status change: com.example.nbcsporsassignmentapp.HiltTestActivity@df08da4 in: STARTED
+06-26 13:12:58.128 17883 17883 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.nbcsporsassignmentapp.HiltTestActivity@df08da4
+06-26 13:12:58.138 17883 17883 W rsassignmentapp: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+06-26 13:12:58.139 17883 17883 D LifecycleMonitor: Lifecycle status change: com.example.nbcsporsassignmentapp.HiltTestActivity@df08da4 in: RESUMED
+06-26 13:12:58.140 17883 17883 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.nbcsporsassignmentapp.HiltTestActivity@df08da4
+06-26 13:12:58.146 17883 17883 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10268; state: DISABLED
+06-26 13:12:58.148 17883 17883 W OpenGLRenderer: Unknown dataspace 0
+06-26 13:12:58.171   399   452 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10268 pid=0
+06-26 13:12:58.171   399   452 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10268 => denied (332 us)
+06-26 13:12:58.172   399   452 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10268 pid=0
+06-26 13:12:58.172   399   452 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10268 => denied (229 us)
+06-26 13:12:58.172   399   452 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10268 pid=0
+06-26 13:12:58.172   399  1083 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10268 pid=17883
+06-26 13:12:58.172   399  1083 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10268 => denied (179 us)
+06-26 13:12:58.172   399   452 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10268 => denied (188 us)
+06-26 13:12:58.173   399  1083 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10268 pid=17883
+06-26 13:12:58.173   399  1083 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10268 => denied (732 us)
+06-26 13:12:58.184   794   854 D EGL_emulation: app_time_stats: avg=22481.18ms min=22481.18ms max=22481.18ms count=1
+06-26 13:12:58.232 17883 17907 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+06-26 13:12:58.233 17883 17907 W OpenGLRenderer: Failed to initialize 101010-2 format, error = EGL_SUCCESS
+06-26 13:12:58.249   794   854 D EGL_emulation: app_time_stats: avg=2673.56ms min=15.33ms max=39371.20ms count=15
+06-26 13:12:58.255   161   161 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+06-26 13:12:58.255 17883 17907 I Gralloc4: mapper 4.x is not supported
+06-26 13:12:58.318 17883 17907 E OpenGLRenderer: Unable to match the desired swap behavior.
+06-26 13:12:58.346   565  1815 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10268 pid=0
+06-26 13:12:58.346   565  1815 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10268 => denied (140 us)
+06-26 13:12:58.346   565  1815 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10268 pid=0
+06-26 13:12:58.346   565  1815 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10268 => denied (168 us)
+06-26 13:12:58.346   565  1815 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10268 pid=0
+06-26 13:12:58.346   565  1815 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10268 => denied (104 us)
+06-26 13:12:58.350   565   586 W ziparchive: Unable to open '/data/app/~~2Xcv2s8YhmMeyFEecPx0PA==/com.example.nbcsporsassignmentapp-6adZ6Uj5WPldmsTwUyzhsA==/base.dm': No such file or directory
+06-26 13:12:58.353   565   586 I ActivityTaskManager: Displayed com.example.nbcsporsassignmentapp/.HiltTestActivity for user 0: +487ms
+06-26 13:12:58.360  1040  1098 I ImeTracker: com.google.android.apps.nexuslauncher:3b1e5afb: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+06-26 13:12:58.362  1040  2136 D OneSearchSuggestProvider: Shut down the binder channel
+06-26 13:12:58.364   565  1771 I ImeTracker: com.google.android.apps.nexuslauncher:3b1e5afb: onCancelled at PHASE_SERVER_SHOULD_HIDE
+06-26 13:12:58.364  1040  2406 I IPCThreadState: oneway function results for code 2 on binder at 0x7d785c234380 will be dropped but finished with status UNKNOWN_TRANSACTION
+06-26 13:12:58.371   565  1816 I ImeTracker: com.example.nbcsporsassignmentapp:1e0b0628: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+06-26 13:12:58.371   565  1816 I ImeTracker: com.example.nbcsporsassignmentapp:1e0b0628: onCancelled at PHASE_SERVER_SHOULD_HIDE
+06-26 13:12:58.378  1480  1480 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+06-26 13:12:58.383  1480  1480 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+06-26 13:12:58.383  1480  1480 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.nbcsporsassignmentapp fieldId=0 fieldName=null extras=null}, false)
+06-26 13:12:58.384  1480  1480 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+06-26 13:12:58.386  1480  1480 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+06-26 13:12:58.488 17883 17905 W FileTestStorage: Output properties is not supported.
+06-26 13:12:58.489 17883 17905 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+06-26 13:12:58.493 17883 17905 D CompatibilityChangeReporter: Compat change id reported: 247079863; UID 10268; state: ENABLED
+06-26 13:12:58.495 17883 17883 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10268; state: ENABLED
+06-26 13:12:58.498 17883 17905 D EventInjectionStrategy: Creating injection strategy with input manager.
+06-26 13:12:58.498 17883 17905 W rsassignmentapp: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+06-26 13:12:58.499 17883 17905 W rsassignmentapp: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+06-26 13:12:58.500 17883 17905 W rsassignmentapp: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+06-26 13:12:58.538 17883 17883 W Glide   : Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application and a @GlideModule annotated AppGlideModule implementation or LibraryGlideModules will be silently ignored
+06-26 13:12:58.610 17883 17883 W rsassignmentapp: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+06-26 13:12:58.611 17883 17883 W rsassignmentapp: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+06-26 13:12:58.611 17883 17883 W rsassignmentapp: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+06-26 13:12:58.619 17883 17883 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131231094/com.example.nbcsporsassignmentapp:id/rvShelfList>
+06-26 13:12:58.644   794   794 D StatusBarIconController: ignoring old pipeline callbacks, because the new mobile icons are enabled
+06-26 13:12:58.647 17883 17883 I ViewInteraction: Checking 'com.example.nbcsporsassignmentapp.HomeFragmentTest$$ExternalSyntheticLambda0@7f0f3dc' assertion on view view.getId() is <2131231094/com.example.nbcsporsassignmentapp:id/rvShelfList>
+06-26 13:12:58.652   794   835 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@f416fd7
+06-26 13:12:58.654   565  1771 W InputManager-JNI: Input channel object '688a833 Splash Screen com.example.nbcsporsassignmentapp (client)' was disposed without first being removed with the input manager!
+06-26 13:12:58.659 17883 17905 I TestRunner: finished: testRecyclerViewDisplaysData(com.example.nbcsporsassignmentapp.HomeFragmentTest)
